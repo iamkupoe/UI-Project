@@ -1,0 +1,56 @@
+.first {
+	background-color: grey;
+	text-align: right;
+}
+#head {
+	font-size: 40px;
+	color: white;
+
+}
+
+.second {
+	background-color:; 
+	text-align: center;
+
+}
+
+.last {
+	background-color: orange;
+	text-align: center;
+	border-bottom: 1px solid silver;
+	color: white;
+}
+
+.third {
+	border: black;
+	background-color:;
+	text-align: center;
+}
+
+.fourth {
+	border: black;
+	background-color:;
+	text-align: center;
+}
+
+.fifth {
+	border: black;
+	background-color:;
+	text-align: center;
+}
+
+.sixth {
+	border: black;
+	background-color:;
+	height: 68px;
+	text-align: center;
+}
+
+.border {
+	background-color: lightgrey;
+	border-bottom: 1px solid silver;
+	border-right: 1px solid silver;
+	}
+
+
+
